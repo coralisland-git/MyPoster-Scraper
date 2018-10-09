@@ -1,6 +1,6 @@
 # MyPoster-Scraper
 
-Downloads all the images of the posters by the keywords from "https://www.mein-plakat.de"
+Downloads all the images of the posters by the keywords from https://www.mein-plakat.de
 
 ## How to install
 
